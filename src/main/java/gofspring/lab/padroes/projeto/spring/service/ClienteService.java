@@ -7,7 +7,7 @@ import gofspring.lab.padroes.projeto.spring.model.Cliente;
  * isso, se necessário, podemos ter multiplas implementações dessa mesma
  * interface.
  *
- * @author falvojr
+ * @author RodrigoChinen
  */
 public interface ClienteService {
 

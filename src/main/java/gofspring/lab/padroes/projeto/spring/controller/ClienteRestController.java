@@ -19,7 +19,7 @@ import gofspring.lab.padroes.projeto.spring.service.ClienteService;
  * a complexidade de integrações (Banco de Dados H2 e API do ViaCEP) em uma
  * interface simples e coesa (API REST).
  *
- * @author falvojr
+ * @author RodrigoChinen
  */
 @RestController
 @RequestMapping("clientes")
