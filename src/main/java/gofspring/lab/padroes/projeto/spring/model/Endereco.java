@@ -1,7 +1,7 @@
 package gofspring.lab.padroes.projeto.spring.model;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
 
 /**
  * Os atributos desse modelo foram gerados automaticamente pelo site
